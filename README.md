@@ -2,10 +2,6 @@
 
 I'm a fullstack web developer, I've worked on several projects, using different technologies.
 
-![rwenzel22 GitHub stats](https://github-readme-stats.vercel.app/api?username=rwenzel22&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rwenzel22&layout=compact&count_private=true)
-
-
 #### My Stack
 
 
